@@ -9,3 +9,4 @@ serversideup/php:8.3-cli-alpine
 
 #serversideup/php:8.2-cli-alpine
 #redis:6.2.14-alpine3.19
+redis:6.2.14-alpine3.20
